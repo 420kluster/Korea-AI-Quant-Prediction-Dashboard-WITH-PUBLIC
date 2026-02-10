@@ -72,13 +72,14 @@ Stock-AI/
 ├── Index.html            # Dashboard main file
 ├── requirements.txt      # Dependency list
 └── README.md             # Project documentation
+```
 
-Disclaimer
+## Disclaimer
+
 The information provided by this service is based on AI analysis of historical data. All investment decisions are the sole responsibility of the user. This service does not constitute investment advice or recommendation.
 
-Author
-Developer: 백야 Baekya (ID)
+## Author
 
-Contact: [Your Email]@gmail.com
-
-Blog/Portfolio: https://finance-commander.netlify.app/
+* **Developer:** 백야 Baekya (ID)
+* **Contact:** [Your Email]@gmail.com
+* **Blog/Portfolio:** https://finance-commander.netlify.app/
