@@ -19,6 +19,8 @@ This project moves beyond simple stock price prediction by employing a **'Hybrid
     * **Long-term**: LSTM model focused on fundamentals, macroeconomics, and growth potential (1-year / 3-year prediction).
 * **User Experience**: An interactive dashboard allowing users to directly select variables and verify results.
 
+---
+
 ## 🗓️ Development Roadmap
 
 This project follows an agile development process, evolving through the following phases.
