@@ -19,6 +19,19 @@ This project moves beyond simple stock price prediction by employing a **'Hybrid
     * **Long-term**: LSTM model focused on fundamentals, macroeconomics, and growth potential (1-year / 3-year prediction).
 * **User Experience**: An interactive dashboard allowing users to directly select variables and verify results.
 
+## 🗓️ Development Roadmap
+
+This project follows an agile development process, evolving through the following phases.
+
+| Phase | Category | Key Tasks | Progress | Status |
+| :---: | :--- | :--- | :---: | :---: |
+| **1** | **Foundation** | • Architecture Design <br> • Data Collection (Crawler) <br> • Feature Engineering (Technical Indicators) | ![80%](https://geps.dev/progress/80) | 🔄 Active |
+| **2** | **Automation** | • GitHub Actions (Cron) Setup <br> • Auto-Preprocessing Pipeline <br> • Database Connection | ![0%](https://geps.dev/progress/0) | ⏳ Pending |
+| **3** | **Modeling** | • LightGBM Model (Short-term) <br> • LSTM Model (Long-term) <br> • Hyperparameter Tuning | ![0%](https://geps.dev/progress/0) | ⏳ Pending |
+| **4** | **Service & UI** | • Streamlit Dashboard Development <br> • Mock Investment System (Supabase) <br> • Mobile Responsive Design | ![0%](https://geps.dev/progress/0) | ⏳ Pending |
+
+> **Status Guide**: ✅ Done / 🔄 Active (In Progress) / 🚧 Started / ⏳ Pending
+
 ---
 
 ## 🏗 Architecture
